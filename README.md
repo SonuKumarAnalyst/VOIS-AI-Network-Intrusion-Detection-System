@@ -52,7 +52,7 @@ The objective of this project is to demonstrate how traditional **Machine Learni
 ---
 
 ## 📂 Project Structure
-    ```bash
+    
     AI-NIDS-Student-Project/  
     ├── app.py  
     ├── requirements.txt  
